@@ -1,6 +1,6 @@
 # Mirror IO
 
-![mirror](https://github.com/radorification/mirror-io/assets/102975348/bf144f30-a0d5-40ca-b1a7-972b9c12bb9e)
+![mirror](https://github.com/radorification/mirror-io/assets/102975348/5a6553c2-ce94-483d-9e51-792fa16b066b)
 
 
 ## Overview
