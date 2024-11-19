@@ -41,7 +41,7 @@ import {
       ],
     });
   
-    const result = await chatSession.sendMessage(prompt);
+    const result = await model.generateContent(prompt);
     console.log(result.response.text());
     return result.response.text();
   }
