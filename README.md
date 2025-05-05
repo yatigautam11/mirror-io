@@ -52,7 +52,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries or feedback, please contact [kumarankur131@gmail.com.com](mailto:kumarankur131@gmail.com).
+For any inquiries or feedback, please contact [yatigautam9412@gmail.com.com](mailto:yatigautam9412@gmail.com).
 
 ## Live Website
 
